@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Eclipse Tractus-X Blog</title>
-        <link>https://eclipse-tractusx.github.io/community/meeting-minutes</link>
+        <link>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes</link>
         <description>Eclipse Tractus-X Blog</description>
         <lastBuildDate>Fri, 21 Mar 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,26 +10,26 @@
         <language>en</language>
         <item>
             <title><![CDATA[Community Office Hour 2025-03-21]]></title>
-            <link>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2025-03-21</link>
-            <guid>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2025-03-21</guid>
+            <link>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2025-03-21</link>
+            <guid>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2025-03-21</guid>
             <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Office Hour meeting minutes]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2025-03-21#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure">Infrastructure<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2025-03-21#infrastructure" class="hash-link" aria-label="Direct link to Infrastructure" title="Direct link to Infrastructure">​</a></h3>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="release-management">Release Management<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2025-03-21#release-management" class="hash-link" aria-label="Direct link to Release Management" title="Direct link to Release Management">​</a></h3>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2025-03-21#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure">Infrastructure<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2025-03-21#infrastructure" class="hash-link" aria-label="Direct link to Infrastructure" title="Direct link to Infrastructure">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="release-management">Release Management<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2025-03-21#release-management" class="hash-link" aria-label="Direct link to Release Management" title="Direct link to Release Management">​</a></h3>
 <ul>
 <li>The first activities for the next release are coming up as <a href="https://github.com/orgs/eclipse-tractusx/projects/26/views/35" target="_blank" rel="noopener noreferrer">per the timeline</a>.</li>
 <li>docusaurus of the website will finally be updated to 3.x 😍 Everyone who is responsible for a kit should join the kick-off as announced per the <a href="https://eclipse-tractusx.github.io/community/open-meetings/" target="_blank" rel="noopener noreferrer">open meetings page</a>.</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2025-03-21#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2025-03-21#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
 <ul>
 <li>There's a couple of PRs open and especially the suggestion to add a new TRG should be reviewed thoroughly <a href="https://github.com/eclipse-tractusx/eclipse-tractusx.github.io/pull/1187" target="_blank" rel="noopener noreferrer">https://github.com/eclipse-tractusx/eclipse-tractusx.github.io/pull/1187</a></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="communityopen-planning">Community/Open Planning<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2025-03-21#communityopen-planning" class="hash-link" aria-label="Direct link to Community/Open Planning" title="Direct link to Community/Open Planning">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="communityopen-planning">Community/Open Planning<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2025-03-21#communityopen-planning" class="hash-link" aria-label="Direct link to Community/Open Planning" title="Direct link to Community/Open Planning">​</a></h3>
 <ul>
 <li>Everyone is invited to join the community days in May 2025.</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="feedbackquestionsrequests">Feedback/Questions/Requests<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2025-03-21#feedbackquestionsrequests" class="hash-link" aria-label="Direct link to Feedback/Questions/Requests" title="Direct link to Feedback/Questions/Requests">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="feedbackquestionsrequests">Feedback/Questions/Requests<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2025-03-21#feedbackquestionsrequests" class="hash-link" aria-label="Direct link to Feedback/Questions/Requests" title="Direct link to Feedback/Questions/Requests">​</a></h3>
 <ul>
 <li>There's a new <a href="https://github.com/eclipse-tractusx/sig-architecture/tree/main/docs/white-papers/multiple-wallet-providers-and-bring-your-own-wallet" target="_blank" rel="noopener noreferrer">architecture whitepaper</a> on integrating the identity hub with other TX components in the concept of a BYO-wallet concept.</li>
 <li>The release timeline of TX, CX and the ecosystem are aligned <a href="https://catenax-ev.github.io/timelines" target="_blank" rel="noopener noreferrer">here</a>.</li>
@@ -39,12 +39,12 @@
         </item>
         <item>
             <title><![CDATA[Community Office Hour 2024-11-08]]></title>
-            <link>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-11-08</link>
-            <guid>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-11-08</guid>
+            <link>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-11-08</link>
+            <guid>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-11-08</guid>
             <pubDate>Fri, 08 Nov 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Office Hour meeting minutes]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-11-08#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure">Infrastructure<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-11-08#infrastructure" class="hash-link" aria-label="Direct link to Infrastructure" title="Direct link to Infrastructure">​</a></h3>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-11-08#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure">Infrastructure<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-11-08#infrastructure" class="hash-link" aria-label="Direct link to Infrastructure" title="Direct link to Infrastructure">​</a></h3>
 <ul>
 <li>Test Environments:<!-- -->
 <ul>
@@ -54,7 +54,7 @@
 </ul>
 </li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="release-management">Release Management<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-11-08#release-management" class="hash-link" aria-label="Direct link to Release Management" title="Direct link to Release Management">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="release-management">Release Management<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-11-08#release-management" class="hash-link" aria-label="Direct link to Release Management" title="Direct link to Release Management">​</a></h3>
 <ul>
 <li>Reminders<!-- -->
 <ul>
@@ -67,11 +67,11 @@
 </ul>
 </li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security">Security<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-11-08#security" class="hash-link" aria-label="Direct link to Security" title="Direct link to Security">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security">Security<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-11-08#security" class="hash-link" aria-label="Direct link to Security" title="Direct link to Security">​</a></h3>
 <ul>
 <li>GitGuardian will be removed soon.</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-11-08#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-11-08#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
 <ul>
 <li><a href="https://github.com/eclipse-tractusx/eclipse-tractusx.github.io/pull/1045" target="_blank" rel="noopener noreferrer">TRG 7.09</a></li>
 <li>discuss how to document releases between ecosystem releases and deployment experiences -&gt; ongoing / announcement</li>
@@ -85,7 +85,7 @@
 <li>ClearlyDefined is down: revisit on next week and then ask via IP matrix check</li>
 <li>MDX files in KITs: only if needed, is CC-BY-4.0</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="communityopen-planning">Community/Open Planning<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-11-08#communityopen-planning" class="hash-link" aria-label="Direct link to Community/Open Planning" title="Direct link to Community/Open Planning">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="communityopen-planning">Community/Open Planning<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-11-08#communityopen-planning" class="hash-link" aria-label="Direct link to Community/Open Planning" title="Direct link to Community/Open Planning">​</a></h3>
 <ul>
 <li>remove the .cal file and just state the time (in an international time format)</li>
 </ul>]]></content:encoded>
@@ -94,12 +94,12 @@
         </item>
         <item>
             <title><![CDATA[Community Office Hour 2024-10-18]]></title>
-            <link>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-18</link>
-            <guid>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-18</guid>
+            <link>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-18</link>
+            <guid>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-18</guid>
             <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Office Hour meeting minutes]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-18#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure">Infrastructure<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-18#infrastructure" class="hash-link" aria-label="Direct link to Infrastructure" title="Direct link to Infrastructure">​</a></h3>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-18#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure">Infrastructure<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-18#infrastructure" class="hash-link" aria-label="Direct link to Infrastructure" title="Direct link to Infrastructure">​</a></h3>
 <ul>
 <li>Test Environments:<!-- -->
 <ul>
@@ -110,12 +110,12 @@
 </ul>
 </li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="release-management">Release Management<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-18#release-management" class="hash-link" aria-label="Direct link to Release Management" title="Direct link to Release Management">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="release-management">Release Management<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-18#release-management" class="hash-link" aria-label="Direct link to Release Management" title="Direct link to Release Management">​</a></h3>
 <ul>
 <li>EDC 0.8.0 to be used during e2e testing. There will be a RC5 early next week, that should be used as a start for e2e testing</li>
 <li>Release check issues are due on Oct. 18th for release 24/12</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-18#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-18#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
 <ul>
 <li>Sources of pictures: Do we need to regulate the availability of sources for binary pictures, as there are pictures in the website repo without editable sources.<!-- -->
 <ul>
@@ -132,7 +132,7 @@
 </ul>
 </li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="communityopen-planning">Community/Open Planning<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-18#communityopen-planning" class="hash-link" aria-label="Direct link to Community/Open Planning" title="Direct link to Community/Open Planning">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="communityopen-planning">Community/Open Planning<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-18#communityopen-planning" class="hash-link" aria-label="Direct link to Community/Open Planning" title="Direct link to Community/Open Planning">​</a></h3>
 <ul>
 <li>Files like presentations done during Open Planning are currently not provided in Open Source. The proposal is to store such files in the already existing large files repository attached to the webpage repo.</li>
 <li>Open Meetings page has been enhanced, there are now relevant links like to the task board that is relevant and related release timelines</li>
@@ -143,12 +143,12 @@
         </item>
         <item>
             <title><![CDATA[Community Office Hour 2024-10-11]]></title>
-            <link>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-11</link>
-            <guid>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-11</guid>
+            <link>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-11</link>
+            <guid>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-11</guid>
             <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Office Hour meeting minutes]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-11#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure">Infrastructure<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-11#infrastructure" class="hash-link" aria-label="Direct link to Infrastructure" title="Direct link to Infrastructure">​</a></h3>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-11#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure">Infrastructure<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-11#infrastructure" class="hash-link" aria-label="Direct link to Infrastructure" title="Direct link to Infrastructure">​</a></h3>
 <ul>
 <li><a href="https://github.com/eclipse-tractusx/eclipse-tractusx.github.io" target="_blank" rel="noopener noreferrer">eclipse-tractusx/eclipse-tractusx.github.io</a> requires just One Committer Review now<!-- -->
 <ul>
@@ -168,7 +168,7 @@
 </ul>
 </li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="release-management">Release Management<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-11#release-management" class="hash-link" aria-label="Direct link to Release Management" title="Direct link to Release Management">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="release-management">Release Management<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-11#release-management" class="hash-link" aria-label="Direct link to Release Management" title="Direct link to Release Management">​</a></h3>
 <ul>
 <li>EDC 0.8.0 to be used during e2e testing.<!-- -->
 <ul>
@@ -195,7 +195,7 @@
 </ul>
 </li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security">Security<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-11#security" class="hash-link" aria-label="Direct link to Security" title="Direct link to Security">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security">Security<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-11#security" class="hash-link" aria-label="Direct link to Security" title="Direct link to Security">​</a></h3>
 <ul>
 <li>[Trufflehog Update] Deprecation of GitGuardian and mandatory update to Trufflehog<!-- -->
 <ul>
@@ -209,12 +209,12 @@
 </ul>
 </li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-11#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-11#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
 <ul>
 <li>TRG proposal for product deprecation including a process and criteria to close <a href="https://github.com/eclipse-tractusx/eclipse-tractusx.github.io/issues/1037" target="_blank" rel="noopener noreferrer">Issue #1037</a></li>
 <li>Please review and  provide some input</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="feedback--question--request">Feedback / Question / Request<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-11#feedback--question--request" class="hash-link" aria-label="Direct link to Feedback / Question / Request" title="Direct link to Feedback / Question / Request">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="feedback--question--request">Feedback / Question / Request<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-10-11#feedback--question--request" class="hash-link" aria-label="Direct link to Feedback / Question / Request" title="Direct link to Feedback / Question / Request">​</a></h3>
 <ul>
 <li>Add Testmanagement timeline into timeline of the overall release</li>
 </ul>]]></content:encoded>
@@ -223,12 +223,12 @@
         </item>
         <item>
             <title><![CDATA[Community Office Hour 2024-07-26]]></title>
-            <link>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26</link>
-            <guid>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26</guid>
+            <link>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26</link>
+            <guid>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26</guid>
             <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Office Hour meeting minutes]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure">Infrastructure<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26#infrastructure" class="hash-link" aria-label="Direct link to Infrastructure" title="Direct link to Infrastructure">​</a></h3>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure">Infrastructure<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26#infrastructure" class="hash-link" aria-label="Direct link to Infrastructure" title="Direct link to Infrastructure">​</a></h3>
 <ul>
 <li>@ds-hzimmer will continue to report from the monthly infrastructure updates that are to happen every month's last sunday.<!-- -->
 <ul>
@@ -236,12 +236,12 @@
 </ul>
 </li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
 <ul>
 <li>Trufflehog has now officially replaced GitGuardian as secret-scanning tool for Eclipse Tractus-X. <a href="https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-03" target="_blank" rel="noopener noreferrer">This is encoded by TRG8.03</a></li>
 <li>@ds-hzimmer reports about the sporadic use of the current sonarcloud instance for Eclipse Tractus-X. There's no TRG for it. It's unclear what additional benefit it will bring to those tools that are backed up with TRGs (Trufflehog, trivy, codeql).</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="qa">Q&amp;A<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26#qa" class="hash-link" aria-label="Direct link to Q&amp;A" title="Direct link to Q&amp;A">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="qa">Q&amp;A<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26#qa" class="hash-link" aria-label="Direct link to Q&amp;A" title="Direct link to Q&amp;A">​</a></h3>
 <ul>
 <li>@tom-rm-meyer-ISST reports issues with the tls provider which will be checked with the infrastructure team.</li>
 </ul>]]></content:encoded>
@@ -250,12 +250,12 @@
         </item>
         <item>
             <title><![CDATA[Community Office Hour 2024-08-02]]></title>
-            <link>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-08-02</link>
-            <guid>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-08-02</guid>
+            <link>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-08-02</link>
+            <guid>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-08-02</guid>
             <pubDate>Fri, 02 Aug 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Office Hour meeting minutes]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-08-02#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure">Infrastructure<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-08-02#infrastructure" class="hash-link" aria-label="Direct link to Infrastructure" title="Direct link to Infrastructure">​</a></h3>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-08-02#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure">Infrastructure<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-08-02#infrastructure" class="hash-link" aria-label="Direct link to Infrastructure" title="Direct link to Infrastructure">​</a></h3>
 <ul>
 <li>Discussion on catenax-ng<!-- -->
 <ul>
@@ -265,16 +265,16 @@
 </li>
 <li>Consortia teams are gone. Thanks, it was a pleasure!</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-08-02#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-08-02#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
 <ul>
 <li>@matbmoser: Please do check for your security issues on the tab. High and critical issues need to be fixed. We should check this on high level / project level regularly in this meeting</li>
-<li>@tom-rm-meyer-ISST: For Truffle Hog, make sure that the workflow runs before merging. (see <a href="https://eclipse-tractusx.github.io/community/meeting-minutes/eclipse-tractusx/puris#531">e.g.</a>)</li>
+<li>@tom-rm-meyer-ISST: For Truffle Hog, make sure that the workflow runs before merging. (see <a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/eclipse-tractusx/puris#531">e.g.</a>)</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-08-02#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-08-02#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
 <ul>
 <li>@AngelikaWittek is gone. Thanks for your work!</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="open-planning--community">Open planning / community<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-08-02#open-planning--community" class="hash-link" aria-label="Direct link to Open planning / community" title="Direct link to Open planning / community">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="open-planning--community">Open planning / community<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-08-02#open-planning--community" class="hash-link" aria-label="Direct link to Open planning / community" title="Direct link to Open planning / community">​</a></h3>
 <ul>
 <li>@stephanbcbauer:<!-- -->
 <ul>
@@ -289,12 +289,12 @@
         </item>
         <item>
             <title><![CDATA[Community Office Hour 2024-07-26]]></title>
-            <link>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26</link>
-            <guid>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26</guid>
+            <link>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26</link>
+            <guid>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26</guid>
             <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Office Hour meeting minutes]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure">Infrastructure<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26#infrastructure" class="hash-link" aria-label="Direct link to Infrastructure" title="Direct link to Infrastructure">​</a></h3>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure">Infrastructure<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26#infrastructure" class="hash-link" aria-label="Direct link to Infrastructure" title="Direct link to Infrastructure">​</a></h3>
 <ul>
 <li>@ds-hzimmer will continue to report from the monthly infrastructure updates that are to happen every month's last sunday.<!-- -->
 <ul>
@@ -302,12 +302,12 @@
 </ul>
 </li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
 <ul>
 <li>Trufflehog has now officially replaced GitGuardian as secret-scanning tool for Eclipse Tractus-X. <a href="https://eclipse-tractusx.github.io/docs/release/trg-8/trg-8-03" target="_blank" rel="noopener noreferrer">This is encoded by TRG8.03</a></li>
 <li>@ds-hzimmer reports about the sporadic use of the current sonarcloud instance for Eclipse Tractus-X. There's no TRG for it. It's unclear what additional benefit it will bring to those tools that are backed up with TRGs (Trufflehog, trivy, codeql).</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="qa">Q&amp;A<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26#qa" class="hash-link" aria-label="Direct link to Q&amp;A" title="Direct link to Q&amp;A">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="qa">Q&amp;A<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-26#qa" class="hash-link" aria-label="Direct link to Q&amp;A" title="Direct link to Q&amp;A">​</a></h3>
 <ul>
 <li>@tom-rm-meyer-ISST reports issues with the tls provider which will be checked with the infrastructure team.</li>
 </ul>]]></content:encoded>
@@ -316,12 +316,12 @@
         </item>
         <item>
             <title><![CDATA[Community Office Hour 2024-07-05]]></title>
-            <link>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-05</link>
-            <guid>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-05</guid>
+            <link>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-05</link>
+            <guid>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-05</guid>
             <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Office Hour meeting minutes]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-05#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure">Infrastructure<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-05#infrastructure" class="hash-link" aria-label="Direct link to Infrastructure" title="Direct link to Infrastructure">​</a></h3>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-05#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure">Infrastructure<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-05#infrastructure" class="hash-link" aria-label="Direct link to Infrastructure" title="Direct link to Infrastructure">​</a></h3>
 <ul>
 <li>Info from Test / Infrastructure Management CX Association by <a href="https://github.com/ds-hzimmer" target="_blank" rel="noopener noreferrer">Harald</a>:<!-- -->
 <ul>
@@ -332,7 +332,7 @@
 </li>
 <li><a href="https://github.com/tomaszbarwicki" target="_blank" rel="noopener noreferrer">Tomasz</a> -	Presented about how do you need to publish your API using .tractusx metafile and publish via GitHub pages - <a href="https://github.com/eclipse-tractusx/api-hub" target="_blank" rel="noopener noreferrer">API Hub</a>.</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-05#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-05#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
 <ul>
 <li>Info from security team by <a href="https://github.com/RoKrish14" target="_blank" rel="noopener noreferrer">Rohan</a>:<!-- -->
 <ul>
@@ -343,11 +343,11 @@
 </ul>
 </li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-05#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-05#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
 <ul>
 <li>Don't forget to update the legal docs!! Close the tickets in your repositories if its done: <a href="https://github.com/eclipse-tractusx/sig-infra/issues/477" target="_blank" rel="noopener noreferrer">eclipse-tractusx/sig-infra#477</a></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="open-planning--community">Open planning / community<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-05#open-planning--community" class="hash-link" aria-label="Direct link to Open planning / community" title="Direct link to Open planning / community">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="open-planning--community">Open planning / community<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-07-05#open-planning--community" class="hash-link" aria-label="Direct link to Open planning / community" title="Direct link to Open planning / community">​</a></h3>
 <ul>
 <li>Info by community manager <a href="https://github.com/stephanbcbauer" target="_blank" rel="noopener noreferrer">Stephan</a> about the Tractus-X/Catena-X working model and the refinement phase for the 24.12 release</li>
 <li><a href="https://eveeno.com/126949167" target="_blank" rel="noopener noreferrer">Registration</a> is open for the Third Eclipse Tractus-X Community Days on December 05 and 06, 2024, ARENA2036 in Stuttgart!</li>
@@ -357,12 +357,12 @@
         </item>
         <item>
             <title><![CDATA[Security Office Hour 2024-07-04]]></title>
-            <link>https://eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-07-04</link>
-            <guid>https://eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-07-04</guid>
+            <link>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-07-04</link>
+            <guid>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-07-04</guid>
             <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Security Office Hour meeting minutes]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="security-office-hour-meeting-minutes">Security Office Hour meeting minutes<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-07-04#security-office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Security Office Hour meeting minutes" title="Direct link to Security Office Hour meeting minutes">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="announcements">Announcements<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-07-04#announcements" class="hash-link" aria-label="Direct link to Announcements" title="Direct link to Announcements">​</a></h3>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="security-office-hour-meeting-minutes">Security Office Hour meeting minutes<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-07-04#security-office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Security Office Hour meeting minutes" title="Direct link to Security Office Hour meeting minutes">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="announcements">Announcements<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-07-04#announcements" class="hash-link" aria-label="Direct link to Announcements" title="Direct link to Announcements">​</a></h3>
 <ul>
 <li>Gitguardian tool for secret scanning will be replaced by TruffleHog. This will be used in parallel with Github's native secret scanning tool.</li>
 <li>Trivy workflow has been updated to address the failure of workflows</li>
@@ -373,12 +373,12 @@
         </item>
         <item>
             <title><![CDATA[Community Office Hour 2024-06-28]]></title>
-            <link>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-28</link>
-            <guid>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-28</guid>
+            <link>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-28</link>
+            <guid>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-28</guid>
             <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Office Hour meeting minutes]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-28#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure">Infrastructure<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-28#infrastructure" class="hash-link" aria-label="Direct link to Infrastructure" title="Direct link to Infrastructure">​</a></h3>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-28#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure">Infrastructure<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-28#infrastructure" class="hash-link" aria-label="Direct link to Infrastructure" title="Direct link to Infrastructure">​</a></h3>
 <ul>
 <li>Info from Test / Infrastructure Management CX Association by <a href="https://github.com/ds-hzimmer" target="_blank" rel="noopener noreferrer">Harald</a>:<!-- -->
 <ul>
@@ -390,7 +390,7 @@
 </li>
 <li>Status about current works on API publishing by <a href="https://github.com/tomaszbarwicki" target="_blank" rel="noopener noreferrer">Tomasz</a> currently in progress: a separate repository to store API docs and publish via GitHub pages - <a href="https://github.com/eclipse-tractusx/api-hub" target="_blank" rel="noopener noreferrer">API Hub</a> - was created. He will present the topic a bit more hands on in one of the upcoming office hours</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-28#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-28#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
 <ul>
 <li>Info from security team by <a href="https://github.com/RoKrish14" target="_blank" rel="noopener noreferrer">Rohan</a>:<!-- -->
 <ul>
@@ -400,16 +400,16 @@
 </ul>
 </li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-28#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-28#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
 <ul>
 <li>Committer Election for <a href="https://github.com/ds-lcapellino" target="_blank" rel="noopener noreferrer">Lucas</a> concluded successfully, congratulations and welcome!</li>
 <li>Don't forget to update the legal docs!! Close the tickets in your repositories if its done: <a href="https://github.com/eclipse-tractusx/sig-infra/issues/477" target="_blank" rel="noopener noreferrer">eclipse-tractusx/sig-infra#477</a></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="open-planning--community">Open planning / community<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-28#open-planning--community" class="hash-link" aria-label="Direct link to Open planning / community" title="Direct link to Open planning / community">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="open-planning--community">Open planning / community<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-28#open-planning--community" class="hash-link" aria-label="Direct link to Open planning / community" title="Direct link to Open planning / community">​</a></h3>
 <ul>
 <li>Info by community manager <a href="https://github.com/stephanbcbauer" target="_blank" rel="noopener noreferrer">Stephan</a> about the Tractus-X/Catena-X working model and the refinement phase for the 24.12 release, which started this week, for more information see <a href="https://www.eclipse.org/lists/tractusx-dev/msg00434.html" target="_blank" rel="noopener noreferrer">TX mailing list: R24.12 next steps in refinement phase</a></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="discussions">Discussions<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-28#discussions" class="hash-link" aria-label="Direct link to Discussions" title="Direct link to Discussions">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="discussions">Discussions<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-28#discussions" class="hash-link" aria-label="Direct link to Discussions" title="Direct link to Discussions">​</a></h3>
 <ul>
 <li><a href="https://github.com/evegufy" target="_blank" rel="noopener noreferrer">Evelyn</a> suggested a consistent storing for environment specific deployment configuration (helm values files) in TX repositories:<!-- -->
 <ul>
@@ -432,23 +432,23 @@
         </item>
         <item>
             <title><![CDATA[Community Office Hour 2024-06-21]]></title>
-            <link>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-21</link>
-            <guid>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-21</guid>
+            <link>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-21</link>
+            <guid>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-21</guid>
             <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Office Hour meeting minutes]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-21#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure">Infrastructure<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-21#infrastructure" class="hash-link" aria-label="Direct link to Infrastructure" title="Direct link to Infrastructure">​</a></h3>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-21#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="infrastructure">Infrastructure<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-21#infrastructure" class="hash-link" aria-label="Direct link to Infrastructure" title="Direct link to Infrastructure">​</a></h3>
 <ul>
 <li>Info from Test Management will be taken over by <a href="https://github.com/ds-hzimmer" target="_blank" rel="noopener noreferrer">Harald Zimmer</a>, please contact with your product owners to get a meeting with Harald and get the access if you are in the association.</li>
 <li>Feedback requested from <a href="https://github.com/ds-hzimmer" target="_blank" rel="noopener noreferrer">Harald Zimmer</a> for who is using: <a href="https://github.com/catenax-ng/product-test-data-generator" target="_blank" rel="noopener noreferrer">https://github.com/catenax-ng/product-test-data-generator</a></li>
 <li>Branch protecting example provided by <a href="https://github.com/tom-rm-meyer-ISST" target="_blank" rel="noopener noreferrer">Tom Meyer</a></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-21#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-21#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
 <ul>
 <li>No security team will be available for R24.08, <a href="https://github.com/RoKrish14" target="_blank" rel="noopener noreferrer">Rohan Krish</a> has told he will be going in July, contact him if you know who will be responsible for security in the Association.</li>
 <li>Handover from <a href="https://github.com/RoKrish14" target="_blank" rel="noopener noreferrer">Rohan Krishnamurthy</a> will be done in this ticket: <a href="https://github.com/eclipse-tractusx/sig-security/issues/83" target="_blank" rel="noopener noreferrer">https://github.com/eclipse-tractusx/sig-security/issues/83</a></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-21#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-21#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
 <ul>
 <li>Committer Election for <a href="https://github.com/arnoweiss" target="_blank" rel="noopener noreferrer">Lucas Capellino</a>, please vote if you are a committer!</li>
 <li><a href="https://github.com/evegufy" target="_blank" rel="noopener noreferrer">Evelyn Gurschler</a> election to project lead concluded successfully, congratulations to our new project lead!</li>
@@ -456,11 +456,11 @@
 <li>Don't forget to update the legal docs!! Close the tickets in your repositories if its done: <a href="https://github.com/eclipse-tractusx/sig-infra/issues/477" target="_blank" rel="noopener noreferrer">eclipse-tractusx/sig-infra#477</a></li>
 <li>1.000 Lines of code in PRs for non-contributors require project Ip check: <a href="https://www.eclipse.org/projects/handbook/#ip-project-content" target="_blank" rel="noopener noreferrer">https://www.eclipse.org/projects/handbook/#ip-project-content</a></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="open-planning--community">Open planning / community<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-21#open-planning--community" class="hash-link" aria-label="Direct link to Open planning / community" title="Direct link to Open planning / community">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="open-planning--community">Open planning / community<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-21#open-planning--community" class="hash-link" aria-label="Direct link to Open planning / community" title="Direct link to Open planning / community">​</a></h3>
 <ul>
 <li>Every office hour there will be a slot to talk about the current process of the working model of Tractus-X/Catena-X. With the updates from the community.</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="discussions">Discussions<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-21#discussions" class="hash-link" aria-label="Direct link to Discussions" title="Direct link to Discussions">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="discussions">Discussions<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-06-21#discussions" class="hash-link" aria-label="Direct link to Discussions" title="Direct link to Discussions">​</a></h3>
 <ul>
 <li>Mermaid version in current docussaurus for the tractus-x webpage do not support specific type block-beta and xychart-beta.<!-- -->
 <ul>
@@ -473,12 +473,12 @@
         </item>
         <item>
             <title><![CDATA[Security Office Hour 2024-06-20]]></title>
-            <link>https://eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-06-20</link>
-            <guid>https://eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-06-20</guid>
+            <link>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-06-20</link>
+            <guid>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-06-20</guid>
             <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Security Office Hour meeting minutes]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="security-office-hour-meeting-minutes">Security Office Hour meeting minutes<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-06-20#security-office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Security Office Hour meeting minutes" title="Direct link to Security Office Hour meeting minutes">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="announcements">Announcements<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-06-20#announcements" class="hash-link" aria-label="Direct link to Announcements" title="Direct link to Announcements">​</a></h3>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="security-office-hour-meeting-minutes">Security Office Hour meeting minutes<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-06-20#security-office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Security Office Hour meeting minutes" title="Direct link to Security Office Hour meeting minutes">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="announcements">Announcements<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-06-20#announcements" class="hash-link" aria-label="Direct link to Announcements" title="Direct link to Announcements">​</a></h3>
 <ul>
 <li>Reminder about former GitHub Organisation Catenax-ng</li>
 <li>Reminder to remove any test credentials/sensitive that are present in Catenax-ng</li>
@@ -489,30 +489,30 @@
         </item>
         <item>
             <title><![CDATA[Community Office Hour 2024-05-03]]></title>
-            <link>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-05-03</link>
-            <guid>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-05-03</guid>
+            <link>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-05-03</link>
+            <guid>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-05-03</guid>
             <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Office Hour meeting minutes]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-05-03#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="system-team">System team<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-05-03#system-team" class="hash-link" aria-label="Direct link to System team" title="Direct link to System team">​</a></h3>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-05-03#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="system-team">System team<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-05-03#system-team" class="hash-link" aria-label="Direct link to System team" title="Direct link to System team">​</a></h3>
 <ul>
 <li>Support needed for overarching <code>CHANGELOG</code> creation for release 24.05. If interested, please get in contact with Stephan Bauer</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-05-03#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-05-03#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
 <ul>
 <li>n/a</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-05-03#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-05-03#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
 <ul>
 <li>Committer Election for <a href="https://github.com/arnoweiss" target="_blank" rel="noopener noreferrer">Arno Weiß</a> concluded successfully. Congratulations!</li>
 <li><a href="https://projects.eclipse.org/projects/automotive.tractusx/elections/election-lucas-capellino-committer-eclipse-tractus-x" target="_blank" rel="noopener noreferrer">Committer Election</a> for <a href="https://github.com/ds-lcapellino" target="_blank" rel="noopener noreferrer">Lucas Capellino</a> open for voting</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="open-planning--community">Open planning / community<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-05-03#open-planning--community" class="hash-link" aria-label="Direct link to Open planning / community" title="Direct link to Open planning / community">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="open-planning--community">Open planning / community<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-05-03#open-planning--community" class="hash-link" aria-label="Direct link to Open planning / community" title="Direct link to Open planning / community">​</a></h3>
 <ul>
 <li>We are looking for committers to help with the Release QG Check Review for the upcoming release. Please reach out to <a href="https://github.com/RolaH1t" target="_blank" rel="noopener noreferrer">Roland</a> and <a href="https://github.com/Siegfriedk" target="_blank" rel="noopener noreferrer">Siegfried</a> if you are interested.</li>
 <li>Check out the meeting <a href="https://eclipse-tractusx.github.io/community/open-meetings/#one-time-meetings" target="_blank" rel="noopener noreferrer">invitations for open meetings</a> regarding planning for release 24.12</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="discussions">Discussions<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-05-03#discussions" class="hash-link" aria-label="Direct link to Discussions" title="Direct link to Discussions">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="discussions">Discussions<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-05-03#discussions" class="hash-link" aria-label="Direct link to Discussions" title="Direct link to Discussions">​</a></h3>
 <ul>
 <li>Are there defined deadlines for release 24.08 -&gt; No one in the meeting did know of one yet</li>
 <li>Interoperability and Thread Modelling checks in 24.05?<!-- -->
@@ -528,22 +528,22 @@ Some Teams already documented on GitHub.</li>
         </item>
         <item>
             <title><![CDATA[Community Office Hour 2024-04-26]]></title>
-            <link>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-26</link>
-            <guid>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-26</guid>
+            <link>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-26</link>
+            <guid>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-26</guid>
             <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Office Hour meeting minutes]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-26#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="system-team">System team<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-26#system-team" class="hash-link" aria-label="Direct link to System team" title="Direct link to System team">​</a></h3>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-26#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="system-team">System team<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-26#system-team" class="hash-link" aria-label="Direct link to System team" title="Direct link to System team">​</a></h3>
 <ul>
 <li>We moved from the former <a href="https://miro.com/app/board/uXjVOEDsHAI=/" target="_blank" rel="noopener noreferrer">Miro</a> board to the new Board within our <a href="https://github.com/orgs/eclipse-tractusx/projects/61" target="_blank" rel="noopener noreferrer">Eclipse Tractus-X GitHub organization projects</a> and if you would like to give Feedback feel free to state it in the <a href="https://github.com/orgs/eclipse-tractusx/projects/61/views/1?pane=issue&amp;itemId=61096455" target="_blank" rel="noopener noreferrer">draft issue</a></li>
 <li>Now you can state everytime your topic for the next office hour as a draft issue for each open meeting like the "Office Hour" as described in the info section of the <a href="https://github.com/orgs/eclipse-tractusx/projects/61?pane=info" target="_blank" rel="noopener noreferrer">board</a></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-26#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-26#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
 <ul>
 <li><a href="https://github.com/RoKrish14" target="_blank" rel="noopener noreferrer">Rohan</a> will resume work on Monday, 13-May Alternate contact: <a href="https://github.com/ZFLokesh" target="_blank" rel="noopener noreferrer">Lokesh Gujre</a> , <a href="https://github.com/BANANAS1337" target="_blank" rel="noopener noreferrer">Tim Herres</a></li>
 <li>Bug bounty program is still in the works, but we are making progress on it see <a href="https://github.com/orgs/eclipse-tractusx/projects/61?pane=issue&amp;itemId=61110062" target="_blank" rel="noopener noreferrer">issue</a></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-26#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-26#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
 <ul>
 <li>Committer Election for <a href="https://github.com/arnoweiss" target="_blank" rel="noopener noreferrer">Arno Weiß</a>  open for <a href="https://projects.eclipse.org/projects/automotive.tractusx/elections/election-arno-wei%C3%9F-committer-eclipse-tractus-x" target="_blank" rel="noopener noreferrer">voting</a></li>
 <li>Please check out the statements to the "Use of AI" in one of our Eclipse Office Hour <a href="https://www.eclipse.org/projects/calendar/#2024-04-11" target="_blank" rel="noopener noreferrer">sessions</a></li>
@@ -551,11 +551,11 @@ Some Teams already documented on GitHub.</li>
 <li>Friendly reminder to the Eclipse Office hours about the process and shared information see <a href="https://github.com/orgs/eclipse-tractusx/projects/61/views/1?pane=issue&amp;itemId=61090283" target="_blank" rel="noopener noreferrer">here</a></li>
 <li>Friendly reminder to check our product notice sections in your documentation and update it if necessary a little example was found within the KIT documentation see <a href="https://github.com/orgs/eclipse-tractusx/projects/61/views/1?pane=issue&amp;itemId=61092600" target="_blank" rel="noopener noreferrer">here</a></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="open-planning--community">Open planning / community<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-26#open-planning--community" class="hash-link" aria-label="Direct link to Open planning / community" title="Direct link to Open planning / community">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="open-planning--community">Open planning / community<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-26#open-planning--community" class="hash-link" aria-label="Direct link to Open planning / community" title="Direct link to Open planning / community">​</a></h3>
 <ul>
 <li>We are looking for committers to help with the Release QG Check Review for the upcoming release. Please reach out to <a href="https://github.com/RolaH1t" target="_blank" rel="noopener noreferrer">Roland</a> and <a href="https://github.com/Siegfriedk" target="_blank" rel="noopener noreferrer">Siegfried</a> if you are interested.</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="discussions">Discussions<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-26#discussions" class="hash-link" aria-label="Direct link to Discussions" title="Direct link to Discussions">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="discussions">Discussions<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-26#discussions" class="hash-link" aria-label="Direct link to Discussions" title="Direct link to Discussions">​</a></h3>
 <ul>
 <li>n/a</li>
 </ul>]]></content:encoded>
@@ -564,31 +564,31 @@ Some Teams already documented on GitHub.</li>
         </item>
         <item>
             <title><![CDATA[Community Office Hour 2024-04-19]]></title>
-            <link>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-19</link>
-            <guid>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-19</guid>
+            <link>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-19</link>
+            <guid>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-19</guid>
             <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Office Hour meeting minutes]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-19#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="system-team">System team<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-19#system-team" class="hash-link" aria-label="Direct link to System team" title="Direct link to System team">​</a></h3>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-19#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="system-team">System team<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-19#system-team" class="hash-link" aria-label="Direct link to System team" title="Direct link to System team">​</a></h3>
 <ul>
 <li>n/a</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-19#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-19#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
 <ul>
 <li>An updated list of Security related TRGs are available after <a href="https://github.com/eclipse-tractusx/.github/pull/22" target="_blank" rel="noopener noreferrer">this PR</a> has been merged</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-19#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-19#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
 <ul>
 <li>The footer of the <a href="https://eclipse-tractusx.github.io/" target="_blank" rel="noopener noreferrer">Eclipse Tractus-X website</a> have been updated</li>
 <li>Community days are getting closer, more info can be found on <a href="https://eclipse-tractusx.github.io/blog/community-days-05-2024" target="_blank" rel="noopener noreferrer">this page</a></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="open-planning--community">Open planning / community<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-19#open-planning--community" class="hash-link" aria-label="Direct link to Open planning / community" title="Direct link to Open planning / community">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="open-planning--community">Open planning / community<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-19#open-planning--community" class="hash-link" aria-label="Direct link to Open planning / community" title="Direct link to Open planning / community">​</a></h3>
 <ul>
 <li>New dates with blockers will be added to the website for release 24.12 soon, keep an eye on them! There will be a news entry when they are available</li>
 <li>Starting with the next release (24.05) QG4 reviews will be mandatory to do in pairs every
 committer can get familiar with the process. A committer can't review their "own" products</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="discussions">Discussions<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-19#discussions" class="hash-link" aria-label="Direct link to Discussions" title="Direct link to Discussions">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="discussions">Discussions<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-19#discussions" class="hash-link" aria-label="Direct link to Discussions" title="Direct link to Discussions">​</a></h3>
 <ul>
 <li>You can read about Eclipse roles and how to become one <a href="https://eclipse-tractusx.github.io/docs/oss/contributor-committer#committer" target="_blank" rel="noopener noreferrer">here</a></li>
 <li>There is a <a href="https://github.com/orgs/eclipse-tractusx/projects/61/views/1#" target="_blank" rel="noopener noreferrer">new board work in progress</a> on GitHub that could be a replacement for the current
@@ -605,18 +605,18 @@ being investigated and an update will be provided soon.</li>
         </item>
         <item>
             <title><![CDATA[Commiter Meeting 12.04.2024]]></title>
-            <link>https://eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024</link>
-            <guid>https://eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024</guid>
+            <link>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024</link>
+            <guid>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024</guid>
             <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Committer meeting - meeting minutes]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="committer-meeting---meeting-minutes">Committer meeting - meeting minutes<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#committer-meeting---meeting-minutes" class="hash-link" aria-label="Direct link to Committer meeting - meeting minutes" title="Direct link to Committer meeting - meeting minutes">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="open-planning-participation-of-committers">Open Planning Participation of committers<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#open-planning-participation-of-committers" class="hash-link" aria-label="Direct link to Open Planning Participation of committers" title="Direct link to Open Planning Participation of committers">​</a></h3>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="committer-meeting---meeting-minutes">Committer meeting - meeting minutes<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#committer-meeting---meeting-minutes" class="hash-link" aria-label="Direct link to Committer meeting - meeting minutes" title="Direct link to Committer meeting - meeting minutes">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="open-planning-participation-of-committers">Open Planning Participation of committers<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#open-planning-participation-of-committers" class="hash-link" aria-label="Direct link to Open Planning Participation of committers" title="Direct link to Open Planning Participation of committers">​</a></h3>
 <p>The open planning is one of the most important meetings. I think 14 (of 41) committers were present, but only two used their voice ;) what about the others?</p>
 <p>=&gt; Maybe we should talk more beforehand, about the importance of the meeting. Responsibilities and expectations of attendance.</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="label-structure">Label structure<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#label-structure" class="hash-link" aria-label="Direct link to Label structure" title="Direct link to Label structure">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="label-structure">Label structure<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#label-structure" class="hash-link" aria-label="Direct link to Label structure" title="Direct link to Label structure">​</a></h3>
 <p>The labels on the features are very important for dependencies and filtering. Yes we have a lot, but we need more ;) but on the other hand we can also delete some ;)</p>
 <p><strong>Suggestions:</strong></p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="new-needed">New needed<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#new-needed" class="hash-link" aria-label="Direct link to New needed" title="Direct link to New needed">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="new-needed">New needed<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#new-needed" class="hash-link" aria-label="Direct link to New needed" title="Direct link to New needed">​</a></h4>
 <ul>
 <li>ssi</li>
 <li>data-sovereignty</li>
@@ -633,11 +633,11 @@ being investigated and an update will be provided soon.</li>
 <li>Standards (marks tickets which have impact on standards)</li>
 <li>Breaking Change (marks breaking change tickets)</li>
 </ul>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="changes-needed">Changes needed<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#changes-needed" class="hash-link" aria-label="Direct link to Changes needed" title="Direct link to Changes needed">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="changes-needed">Changes needed<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#changes-needed" class="hash-link" aria-label="Direct link to Changes needed" title="Direct link to Changes needed">​</a></h4>
 <ul>
 <li>miw =&gt; rename to identity-wallet</li>
 </ul>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="delete-probably-we-need-to-discuss-this-once-since-a-deletion-has-impacts">Delete (probably we need to discuss this once since a deletion has impacts…)<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#delete-probably-we-need-to-discuss-this-once-since-a-deletion-has-impacts" class="hash-link" aria-label="Direct link to Delete (probably we need to discuss this once since a deletion has impacts…)" title="Direct link to Delete (probably we need to discuss this once since a deletion has impacts…)">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="delete-probably-we-need-to-discuss-this-once-since-a-deletion-has-impacts">Delete (probably we need to discuss this once since a deletion has impacts…)<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#delete-probably-we-need-to-discuss-this-once-since-a-deletion-has-impacts" class="hash-link" aria-label="Direct link to Delete (probably we need to discuss this once since a deletion has impacts…)" title="Direct link to Delete (probably we need to discuss this once since a deletion has impacts…)">​</a></h4>
 <ul>
 <li>kit (reason: each kit has an own label already)</li>
 <li>foss</li>
@@ -648,7 +648,7 @@ being investigated and an update will be provided soon.</li>
 <li>Project management</li>
 <li>Test results</li>
 </ul>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="additionally-i-like-to-suggest-a-clear-color-coding">Additionally I like to suggest a clear color coding<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#additionally-i-like-to-suggest-a-clear-color-coding" class="hash-link" aria-label="Direct link to Additionally I like to suggest a clear color coding" title="Direct link to Additionally I like to suggest a clear color coding">​</a></h4>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="additionally-i-like-to-suggest-a-clear-color-coding">Additionally I like to suggest a clear color coding<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#additionally-i-like-to-suggest-a-clear-color-coding" class="hash-link" aria-label="Direct link to Additionally I like to suggest a clear color coding" title="Direct link to Additionally I like to suggest a clear color coding">​</a></h4>
 <ul>
 <li>All Product labels - ocean blue</li>
 <li>All Prep-Pxx label – grey</li>
@@ -657,23 +657,23 @@ being investigated and an update will be provided soon.</li>
 <li>All Expert group labels - yellow</li>
 </ul>
 <p>=&gt; HTML color code is used</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="clean-board">Clean Board<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#clean-board" class="hash-link" aria-label="Direct link to Clean Board" title="Direct link to Clean Board">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="clean-board">Clean Board<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#clean-board" class="hash-link" aria-label="Direct link to Clean Board" title="Direct link to Clean Board">​</a></h3>
 <p>My feeling is, we will have round about 60 features for 24.08 -&gt; all good. Happy about it. But on the board itself we have more than 200. I understand its good to have some features in inbox/backlog... but i think the gap is to big ... and i think a lot of them could be deleted ;(</p>
 <p>=&gt; discussed and decided: Friendly reminder -&gt; after a specific amount ot time the issues are deleted automatically</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="views-an-project-board">Views an project board<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#views-an-project-board" class="hash-link" aria-label="Direct link to Views an project board" title="Direct link to Views an project board">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="views-an-project-board">Views an project board<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#views-an-project-board" class="hash-link" aria-label="Direct link to Views an project board" title="Direct link to Views an project board">​</a></h3>
 <p>The views (tabs) should be cleaned up) which views are still needed?</p>
 <ul>
 <li>Feature view (issuetype <code>feature</code>) -&gt; for Expert Groups / Committees / Developer</li>
 <li>QGate View (issuetype <code>realease_ac</code>)</li>
 <li>???</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="future-workingmodel">Future workingmodel<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#future-workingmodel" class="hash-link" aria-label="Direct link to Future workingmodel" title="Direct link to Future workingmodel">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="future-workingmodel">Future workingmodel<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#future-workingmodel" class="hash-link" aria-label="Direct link to Future workingmodel" title="Direct link to Future workingmodel">​</a></h3>
 <p>Instead of miro we could work with GitHub Project as agenda/issuetracking. e.g. <a href="https://github.com/orgs/eclipse-tractusx/projects/61" target="_blank" rel="noopener noreferrer">example board</a></p>
 <p>=&gt; lets try it</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="custom-attribute">Custom Attribute<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#custom-attribute" class="hash-link" aria-label="Direct link to Custom Attribute" title="Direct link to Custom Attribute">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="custom-attribute">Custom Attribute<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#custom-attribute" class="hash-link" aria-label="Direct link to Custom Attribute" title="Direct link to Custom Attribute">​</a></h3>
 <p>Since we work together e.V/Open Source it would be beneficial if we could map the features to the related expert (groups) therefore i would like to discuss a custom attribute, which holds the related committee/expertgroup (dedicated list) -&gt; This would help to filter and also get a better feeling</p>
 <p>=&gt; prepare a poc -&gt; Tom , Stephan</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="featurequality">Featurequality<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#featurequality" class="hash-link" aria-label="Direct link to Featurequality" title="Direct link to Featurequality">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="featurequality">Featurequality<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/committer-meeting-12-04-2024#featurequality" class="hash-link" aria-label="Direct link to Featurequality" title="Direct link to Featurequality">​</a></h3>
 <p>Since sometimes the quality (how is a feature described, did you clarify your dependencies, did you talk to your committer, is the time allocated) i would like to extend the feature template to guide a little bit more. For example a checklist like:</p>
 <ul>
 <li>[ ] i have talked to dependent components</li>
@@ -689,30 +689,30 @@ being investigated and an update will be provided soon.</li>
         </item>
         <item>
             <title><![CDATA[Community Office Hour 2024-04-12]]></title>
-            <link>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-12</link>
-            <guid>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-12</guid>
+            <link>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-12</link>
+            <guid>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-12</guid>
             <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Office Hour meeting minutes]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-12#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="system-team">System team<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-12#system-team" class="hash-link" aria-label="Direct link to System team" title="Direct link to System team">​</a></h3>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-12#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="system-team">System team<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-12#system-team" class="hash-link" aria-label="Direct link to System team" title="Direct link to System team">​</a></h3>
 <ul>
 <li>Number of previous KIT versions of the home page have been <a href="https://github.com/eclipse-tractusx/eclipse-tractusx.github.io/pull/840" target="_blank" rel="noopener noreferrer">reduced</a>. (this speeds up the compile process by 3,5x)</li>
 <li>System team is working on collecting the OpenAPI specs (as alternative to SwaggerHub)</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-12#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-12#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
 <ul>
 <li>Invicti <a href="https://www.invicti.com/learn/dynamic-application-security-testing-dast/" target="_blank" rel="noopener noreferrer">DAST</a> scans are available now. They are not part of the next QG.</li>
 <li>Heads up regarding the <em>XZ backdoor awareness mail</em> on the mailing list</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-12#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-12#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
 <ul>
 <li>Committer elections are important to prevent hostile project takeover (especially in the wake of the <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-3094" target="_blank" rel="noopener noreferrer">XZ Utils backdoor</a> )</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="open-planning--community">Open planning / community<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-12#open-planning--community" class="hash-link" aria-label="Direct link to Open planning / community" title="Direct link to Open planning / community">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="open-planning--community">Open planning / community<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-12#open-planning--community" class="hash-link" aria-label="Direct link to Open planning / community" title="Direct link to Open planning / community">​</a></h3>
 <ul>
 <li>n/a</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="discussions">Discussions<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-12#discussions" class="hash-link" aria-label="Direct link to Discussions" title="Direct link to Discussions">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="discussions">Discussions<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-12#discussions" class="hash-link" aria-label="Direct link to Discussions" title="Direct link to Discussions">​</a></h3>
 <ul>
 <li>Reminder that there will be a "tandem mode" review for next QGate:<!-- -->
 <ul>
@@ -726,12 +726,12 @@ being investigated and an update will be provided soon.</li>
         </item>
         <item>
             <title><![CDATA[Security Office Hour 2024-04-11]]></title>
-            <link>https://eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-04-11</link>
-            <guid>https://eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-04-11</guid>
+            <link>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-04-11</link>
+            <guid>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-04-11</guid>
             <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Security Office Hour meeting minutes]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="security-office-hour-meeting-minutes">Security Office Hour meeting minutes<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-04-11#security-office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Security Office Hour meeting minutes" title="Direct link to Security Office Hour meeting minutes">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="announcements">Announcements<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-04-11#announcements" class="hash-link" aria-label="Direct link to Announcements" title="Direct link to Announcements">​</a></h3>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="security-office-hour-meeting-minutes">Security Office Hour meeting minutes<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-04-11#security-office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Security Office Hour meeting minutes" title="Direct link to Security Office Hour meeting minutes">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="announcements">Announcements<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-04-11#announcements" class="hash-link" aria-label="Direct link to Announcements" title="Direct link to Announcements">​</a></h3>
 <ul>
 <li>SAST: CodeQL workflows seems successfully well integrated</li>
 <li>KICS, Trivy, GitGuardian and Dependabot tools will continue as it is.</li>
@@ -742,12 +742,12 @@ being investigated and an update will be provided soon.</li>
         </item>
         <item>
             <title><![CDATA[Community Office Hour 2024-04-05]]></title>
-            <link>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-05</link>
-            <guid>https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-05</guid>
+            <link>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-05</link>
+            <guid>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-05</guid>
             <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Office Hour meeting minutes]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-05#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="system-team">System team<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-05#system-team" class="hash-link" aria-label="Direct link to System team" title="Direct link to System team">​</a></h3>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="office-hour-meeting-minutes">Office Hour meeting minutes<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-05#office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Office Hour meeting minutes" title="Direct link to Office Hour meeting minutes">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="system-team">System team<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-05#system-team" class="hash-link" aria-label="Direct link to System team" title="Direct link to System team">​</a></h3>
 <ul>
 <li>Several TRGs in Draft<!-- -->
 <ul>
@@ -756,7 +756,7 @@ being investigated and an update will be provided soon.</li>
 </ul>
 </li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-05#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-05#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
 <ul>
 <li>Veracode license finally expired<!-- -->
 <ul>
@@ -768,15 +768,15 @@ being investigated and an update will be provided soon.</li>
 <li>Security TRGs live. See the "TRG 8 - Security" section
 in <a href="https://eclipse-tractusx.github.io/docs/release" target="_blank" rel="noopener noreferrer">Release Guidelines</a></li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-05#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-05#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
 <ul>
 <li>n/a</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="open-planning--community">Open planning / community<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-05#open-planning--community" class="hash-link" aria-label="Direct link to Open planning / community" title="Direct link to Open planning / community">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="open-planning--community">Open planning / community<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-05#open-planning--community" class="hash-link" aria-label="Direct link to Open planning / community" title="Direct link to Open planning / community">​</a></h3>
 <ul>
 <li>n/a</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="discussions">Discussions<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-05#discussions" class="hash-link" aria-label="Direct link to Discussions" title="Direct link to Discussions">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="discussions">Discussions<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-04-05#discussions" class="hash-link" aria-label="Direct link to Discussions" title="Direct link to Discussions">​</a></h3>
 <ul>
 <li>Dependabot PRs<!-- -->
 <ul>
@@ -802,12 +802,12 @@ while</li>
         </item>
         <item>
             <title><![CDATA[Security Office Hour 2024-03-28]]></title>
-            <link>https://eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-03-28</link>
-            <guid>https://eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-03-28</guid>
+            <link>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-03-28</link>
+            <guid>https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-03-28</guid>
             <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Security Office Hour meeting minutes]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="security-office-hour-meeting-minutes">Security Office Hour meeting minutes<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-03-28#security-office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Security Office Hour meeting minutes" title="Direct link to Security Office Hour meeting minutes">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="announcements">Announcements<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-03-28#announcements" class="hash-link" aria-label="Direct link to Announcements" title="Direct link to Announcements">​</a></h3>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="security-office-hour-meeting-minutes">Security Office Hour meeting minutes<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-03-28#security-office-hour-meeting-minutes" class="hash-link" aria-label="Direct link to Security Office Hour meeting minutes" title="Direct link to Security Office Hour meeting minutes">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="announcements">Announcements<a href="https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io/community/meeting-minutes/security-office-hour-2024-03-28#announcements" class="hash-link" aria-label="Direct link to Announcements" title="Direct link to Announcements">​</a></h3>
 <ul>
 <li>SAST:<!-- -->
 <ul>

@@ -9,8 +9,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/vsDark');
 const config = {
   title: 'Eclipse Tractus-X',
   tagline: '',
-  url: 'https://docusaurus-upgrade.github.io',
-  baseUrl: '/eclipse-tractusx.github.io/',
+  url: 'https://docusaurus-upgrade.github.io/eclipse-tractusx.github.io',
+  baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo_tractus-x-min.ico',

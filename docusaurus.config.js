@@ -176,6 +176,10 @@ const config = {
                 to: '/docs-kits/dummy-kit/adoption-view',
                 label: 'Dummy Kit',
               },
+              {
+                to: '/docs-kits/kits/supply-chain-disruption-notification-kit/adoption-view',
+                label: 'Supply Chain Disruption Notification',
+              },
             ],
           },
           {

@@ -234,15 +234,15 @@
   .navbar__items {
     margin: 0 8px;
   }
-  
+
   .navbar__brand {
     margin-right: 16px;
   }
-  
+
   .navbar__title {
     font-size: 14px;
   }
-  
+
   .navbar__link {
     margin: 0 10px;
     font-size: 12px;
@@ -370,8 +370,28 @@
     width: 60vw;
     margin: auto;
   }
-  
+
   .headers-subtitle-p {
     width: 40%;
   }
+}
+
+/* Dark mode adjustments for the calendar */
+:root[data-theme='dark'] .rbc-calendar {
+  background-color: var(--ifm-background-color);
+  color: var(--ifm-font-color-base);
+}
+
+:root[data-theme='dark'] .rbc-event {
+  background-color: var(--ifm-color-primary);
+  color: var(--ifm-background-color);
+}
+
+:root[data-theme='dark'] .rbc-toolbar {
+  background-color: var(--ifm-color-primary-dark);
+  color: var(--ifm-background-color);
+}
+
+:root[data-theme='dark'] .rbc-today {
+  background-color: var(--ifm-color-primary-lightest);
 }

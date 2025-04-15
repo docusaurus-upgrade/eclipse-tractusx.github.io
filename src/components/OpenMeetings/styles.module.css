@@ -28,8 +28,7 @@
 }
 
 /* Ensure all nested instances of rbc-event-label are hidden */
-.rbc-event-label,
-.rbc-event-label * {
+[class*="rbc-event-label"] {
   display: none !important;
 }
 

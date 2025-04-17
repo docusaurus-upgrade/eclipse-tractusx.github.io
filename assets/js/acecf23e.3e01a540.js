@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkeclipse_tractusx_github_io=self.webpackChunkeclipse_tractusx_github_io||[]).push([[1903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/eclipse-tractusx.github.io/blog","blogTitle":"Blog","authorsListPath":"/eclipse-tractusx.github.io/blog/authors"}')}}]);

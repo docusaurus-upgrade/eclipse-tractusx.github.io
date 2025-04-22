@@ -81,7 +81,7 @@ The following goals have been established for this system:
 > [!IMPORTANT]
 > **Cross-Check with CACs**
 
-![bpdm_usecase_diagram](@site/static/img/usecase_diagram.drawio.svg)
+![bpdm_usecase_diagram](@site/static/img/usecase_diagram.svg)
 
 The following Usecases together with its requirements exist for this system:
 
@@ -129,7 +129,7 @@ The following Usecases together with its requirements exist for this system:
 
 The following figure depicts the business context setup for BPDM:
 
-![bpdm_business_context](@site/static/img/cx_bpdm_context_business.drawio.svg)
+![bpdm_business_context](@site/static/img/cx_bpdm_context_business.svg)
 
 The following are the various components of the business context setup:
 
@@ -165,7 +165,7 @@ The Portal which provides an entry point for the Catena-X Members, to discover A
 ## Technical Context
 
 The technical context setup including deployment is depicted in the following figure:
-![cx_bpdm_deployment_context](@site/static/img/cx_bpdm_context_technical.drawio.svg)
+![cx_bpdm_deployment_context](@site/static/img/cx_bpdm_context_technical.svg)
 
 - The BPDM Application follows a microservice approach to separate the different components of the system.
 - Within Catena-X there will be only one central operation environment that operates the BPDM Application. This operation environment provides the services and data for other operation environment or applications which needs to consume business partner data or golden record data.
@@ -174,7 +174,7 @@ The technical context setup including deployment is depicted in the following fi
 
 The following high level view gives a basic overview about the BPDM Components:
 
-![cx_bpdm_highlevel](@site/static/img/cx_bpdm_highlevel.drawio.svg)
+![cx_bpdm_highlevel](@site/static/img/cx_bpdm_highlevel.svg)
 
 ### **BPDM Gate**
 
@@ -205,11 +205,11 @@ The following high level view gives a basic overview about the BPDM Components:
 
 Due to a transmission phase there are two concepts of Business Partner Upload Models. The target is to only have the generic Business Partner on the BPDM Gate.
 
-![bpdm_current_architecture_LSA](@site/static/img/cx_bpdm_architecture_v3_2.drawio.svg)
+![bpdm_current_architecture_LSA](@site/static/img/cx_bpdm_architecture_v3_2.svg)
 
 ### High-Level Architecture (Generic Endpoint)
 
-![bpdm_current_architecture_Generic](@site/static/img/cx_bpdm_architecture_v3_3.drawio.svg)
+![bpdm_current_architecture_Generic](@site/static/img/cx_bpdm_architecture_v3_3.svg)
 
 #### **Simulator Service**
 

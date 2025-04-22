@@ -36,7 +36,7 @@ In individual cases, the usage of a VIN or some generated anonymized number may 
 
 The supply chain is visible to each company *only one* up and *one down* (there may be exceptions):
 
-![supply chain visibility](assets/supply-chain-visibility.drawio.svg)
+![supply chain visibility](assets/supply-chain-visibility.svg)
 
 ### USE CASE FRAMEWORK AND CONTRACTS
 
@@ -78,11 +78,11 @@ There could be three dates within this period that must be considered:
 
 There may be a period where two versions are provided/supported in parallel:
 
-![cx-releases timeline](assets/cx-releases-timeline.drawio.svg)
+![cx-releases timeline](assets/cx-releases-timeline.svg)
 
 The three dates may coincide on a date. In this case, start of rollout is on same date as end of rollout of the previous version, and end of rollout is on same date as end-of-life of the previous version:
 
-![cx-releases timeline](assets/cx-releases-timeline-condensed.drawio.svg)
+![cx-releases timeline](assets/cx-releases-timeline-condensed.svg)
 
 If the release cycle follows the before mentioned schema it is always guaranteed that there is a version that is provided/supported from end of rollout until end-oflife.
 

@@ -42,7 +42,7 @@ One of the special cases would be that the data provider is also the RuL consume
 
 The first addressee of a RuL skill must be the OEM since it has access to its suppliers who can provide RuL values.
 
-![business-process](assets/business-process.drawio.svg)
+![business-process](assets/business-process.svg)
 
 0. **sync federated catalog:** <br/> The federated catalogs are synchronized periodically. As a result, the OEM can resolve RuL prognosis function assets that are located at the supplier.
 

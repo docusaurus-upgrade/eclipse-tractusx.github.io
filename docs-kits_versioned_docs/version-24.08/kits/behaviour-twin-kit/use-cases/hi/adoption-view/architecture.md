@@ -44,7 +44,7 @@ One common case is that the data provider is also the HI consumer and skill prov
 
 The skill is initially executed at the OEM. There it may be registered as an asset or used ad hoc. If the consumer is also the skill provider, it is his free choice which way to go. In the following description, the skill is registered.
 
-![business-process](assets/business-process.drawio.svg)
+![business-process](assets/business-process.svg)
 
 0. **Register skill asset (0.1) and sync federated catalog (0.2):** <br/> The skill is registered as an asset at the OEM's EDC connector. The federated catalogs are synchronized periodically. As a result, the OEM can resolve HI calculation function assets that are located at the supplier.
 

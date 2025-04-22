@@ -5,7 +5,7 @@ description: 'Architecture documentation (arc42)'
 sidebar_position: 1
 ---
 
-![Business partner kit banner](@site/static/img/kits/business-partner/business-partner-logo.drawio.svg)
+![Business partner kit banner](@site/static/img/kits/business-partner/business-partner-logo.svg)
 
 ## Business Partner KIT
 
@@ -79,7 +79,7 @@ The following goals have been established for this system:
 > [!IMPORTANT]
 > **Cross-Check with CACs**
 
-![bpdm_usecase_diagram](@site/static/img/usecase_diagram.drawio.svg)
+![bpdm_usecase_diagram](@site/static/img/usecase_diagram.svg)
 
 The following Usecases together with its requirements exist for this system:
 
@@ -127,7 +127,7 @@ The following Usecases together with its requirements exist for this system:
 
 The following figure depicts the business context setup for BPDM:
 
-![bpdm_business_context](@site/static/img/cx_bpdm_context_business.drawio.svg)
+![bpdm_business_context](@site/static/img/cx_bpdm_context_business.svg)
 
 The following are the various components of the business context setup:
 
@@ -163,7 +163,7 @@ The Portal which provides an entry point for the Catena-X Members, to discover A
 ## Technical Context
 
 The technical context setup including deployment is depicted in the following figure:
-![cx_bpdm_deployment_context](@site/static/img/cx_bpdm_context_technical.drawio.svg)
+![cx_bpdm_deployment_context](@site/static/img/cx_bpdm_context_technical.svg)
 
 - The BPDM Application follows a microservice approach to separate the different components of the system.
 - Within Catena-X there will be only one central operation environment that operates the BPDM Application. This operation environment provides the services and data for other operation environment or applications which needs to consume business partner data or golden record data.
@@ -172,7 +172,7 @@ The technical context setup including deployment is depicted in the following fi
 
 The following high level view gives a basic overview about the BPDM Components:
 
-![cx_bpdm_highlevel](@site/static/img/cx_bpdm_highlevel.drawio.svg)
+![cx_bpdm_highlevel](@site/static/img/cx_bpdm_highlevel.svg)
 
 ### **BPDM Gate**
 
@@ -201,7 +201,7 @@ The following high level view gives a basic overview about the BPDM Components:
 
 ### High-Level Architecture (Generic Endpoint)
 
-![bpdm_current_architecture_Generic](@site/static/img/cx_bpdm_architecture_v3_3.drawio.svg)
+![bpdm_current_architecture_Generic](@site/static/img/cx_bpdm_architecture_v3_3.svg)
 
 #### **Simulator Service**
 
@@ -1011,7 +1011,7 @@ In this scenario a third party service provider offers a value added services th
 
 - No EDC is needed for presenting the visualization via a web frontend to the customer.
 
-![External web application that only visualizes data based on gate data](@site/static/img/kit-icons/edc-usage-1-1.drawio.svg)
+![External web application that only visualizes data based on gate data](@site/static/img/kit-icons/edc-usage-1-1.svg)
 
 ### Scenario 1.2: Internal web application that only visualizes data based on gate data and/or pool data
 
@@ -1025,7 +1025,7 @@ In this scenario the operating environment itself operates a web application tha
 
 - No EDC is needed for presenting the visualization via a web frontend to the customer.
 
-![Internal web app that only visualizes data based on gate data](@site/static/img/kit-icons/edc-usage-1-2.drawio.svg)
+![Internal web app that only visualizes data based on gate data](@site/static/img/kit-icons/edc-usage-1-2.svg)
 
 ### Scenario 2.1: External web application/service that provides enriched data based on gate data and/or pool data
 
@@ -1041,7 +1041,7 @@ In this scenario a third party service provider offers a value added services th
 
 - EDC enabled communication is needed between the value-added-service backend and the customer system.
 
-![External web application that only visualizes data based on gate data](@site/static/img/kit-icons/edc-usage-2-1.drawio.svg)
+![External web application that only visualizes data based on gate data](@site/static/img/kit-icons/edc-usage-2-1.svg)
 
 ### Scenario 2.2: Internal web application/service that provides enriched data based on gate data and/or pool data
 
@@ -1056,7 +1056,7 @@ In this scenario the operating environment itself operates a backend service or 
 - No EDC enabled communication is needed between the bpdm gate and the backend service that processes the data.
 
 - No EDC enabled communication is needed between the bpdm pool and the backend service that processes the data.
-![Internal web application that only visualizes data based on gate data](@site/static/img/kit-icons/edc-usage-2-2.drawio.svg)
+![Internal web application that only visualizes data based on gate data](@site/static/img/kit-icons/edc-usage-2-2.svg)
 
 ## Quality Requirements
 

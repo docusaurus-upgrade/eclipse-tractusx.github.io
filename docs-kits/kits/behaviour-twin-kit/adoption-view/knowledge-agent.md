@@ -7,7 +7,7 @@ description: Behaviour Twin KIT
 <div style={{display:'block'}}>
   <div style={{display:'inline-block', verticalAlign:'top'}}>
 
-![Behaviour Twin KIT banner](@site/static/img/kits/behavior-twin/behavior-twin-kit-logo.drawio.svg)
+![Behaviour Twin KIT banner](@site/static/img/kits/behavior-twin/behavior-twin-kit-logo.svg)
 
   </div>
   <div style={{display:'inline-block', fontSize:17, color:'rgb(255,166,1)', marginLeft:7, verticalAlign:'top', paddingTop:6}}>
@@ -23,7 +23,7 @@ Semantic models (ontologies, enriched by taxonomies) are describing the data mod
 
 Semantic models are instantiated by semantic triplets. Those triplets are consisting of a subject, a predicate and an object. Subject and object are nodes, the predicate is a unidirectional edge (a relation) between them:
 
-![triplet](assets/triplet.drawio.svg)
+![triplet](assets/triplet.svg)
 
 Classes, properties and relations can be instantiated zero, once or multiple times. All instances of triplets together form the **knowledge graph**.
 
@@ -37,11 +37,11 @@ For a specification of the preferred modelling language, see [RDF 1.1 Turtle on 
 
 Object types and relations are formally defined within ontologies, e.g.:
 
-![triplet-example-partof](assets/triplet-example-partof.drawio.svg)
+![triplet-example-partof](assets/triplet-example-partof.svg)
 
 Subjects and objects may not be real objects but conceptual ones:
 
-![triplet-example-hasargument](assets/triplet-example-hasargument.drawio.svg)
+![triplet-example-hasargument](assets/triplet-example-hasargument.svg)
 
 ### CATENA-X ONTOLOGIES AND TAXONOMIES
 
@@ -89,7 +89,7 @@ The Knowledge Agent approach enables high scalability by reducing complexity.
 
 Many Behaviour Twin use cases start with collecting usage data and send them to a calculation service. Without generalized components, there would be a huge effort:
 
-![complexity in dataspaces without knowledge agent technology](./assets/complex-dataspace.drawio.svg)
+![complexity in dataspaces without knowledge agent technology](./assets/complex-dataspace.svg)
 
 **For each use case at each participating *data provider***, a dedicated and complex *Coordination Service* must be developed, deployed and maintained. This service contains the overarching logic (how to link usage data and calculation services to produce the desired results), fetches usage data, negotiates contracts over EDC and calls (different) APIs of calculation services at the *Service Providers*. For this process, negotiation of contracts over EDC must also be handled by the Coordination Services. Because of different input parameters of different calculation services, for every link there must be a dedicated implementation.
 
@@ -101,7 +101,7 @@ Even more complexity comes in when there are more use cases, more than one data 
 
 A generalization with the help of the *Knowledge Agent* technology leads to a lower complexity:
 
-![complexity in dataspaces with knowledge agent technology](./assets/dataspace-knowledge-agent.drawio.svg)
+![complexity in dataspaces with knowledge agent technology](./assets/dataspace-knowledge-agent.svg)
 
 This approach shifts complexity to the Knowledge Agent (KA-EDC), which is a well-developed set of components and deployed only once for a set of use cases. All the Coordination Services, API calls and explicit negotiations can be omitted. Instead, data and calculation services are bound to the *Knowledge Graph* and formal described in *graph assets* at the EDCs. By defining usage policies for those graph assets, the *Knowledge Agent* negotiates contracts and organizes data exchange automatically. This has not to be implemented by separate services any more.
 

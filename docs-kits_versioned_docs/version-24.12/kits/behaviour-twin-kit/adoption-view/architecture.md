@@ -21,15 +21,15 @@ Behaviour Twin KIT
 
 A Behaviour Twin use case consists of data and calculation services. In addition, a logic is required, that defines how data and services must interact to produce the desired result. This logic is called *skill*. It must be invoked directly or indirectly by the consumer.
 
-![logic](assets/logic.drawio.svg)
+![logic](assets/logic.svg)
 
 Data and services are federated over the dataspace:
 
-![dataspace](assets/dataspace.drawio.svg)
+![dataspace](assets/dataspace.svg)
 
 A use case may consist of multiple data sources and calculation services:
 
-![dataspace-complex](assets/dataspace-complex.drawio.svg)
+![dataspace-complex](assets/dataspace-complex.svg)
 
 ### ROLES
 
@@ -63,7 +63,7 @@ In Behaviour Twin use cases, the fist step into the federated logic is usually t
 
 The following business process is only an example. Depending on how the skill is written, the process can vary.
 
-![business-process](assets/business-process.drawio.svg)
+![business-process](assets/business-process.svg)
 
 0. **Register skill asset (0.1) and sync federated catalog (0.2):** <br/> The predefined skill is registered as an asset at the data provider's EDC connector. The federated catalogs are synchronized periodically.
 
@@ -155,7 +155,7 @@ The roles *data provider* and *calculation service provider* can occur more than
 
 #### SKILL PROVIDER IS NEUTRAL ENTITY
 
-![combination skill provider is neutral entity](assets/combination-skill-provider-is-neutral-entity.drawio.svg)
+![combination skill provider is neutral entity](assets/combination-skill-provider-is-neutral-entity.svg)
 
 There may be reasons why the *skill provider* is not the consumer, as well as not one of the other roles:
 
@@ -164,49 +164,49 @@ There may be reasons why the *skill provider* is not the consumer, as well as no
 
 #### CONSUMER IS SKILL PROVIDER
 
-![combination consumer is skill provider.drawio](assets/combination-consumer-is-skill-provider.drawio.svg)
+![combination consumer is skill provider.drawio](assets/combination-consumer-is-skill-provider.svg)
 
 Often the consumer is also the skill provider. It knows what to ask for and how to process the data to get the desired results.
 
 #### DATA PROVIDER IS CALCULATION SERVICE PROVIDER
 
-![combination data provider is service provider](assets/combination-data-provider-is-service-provider.drawio.svg)
+![combination data provider is service provider](assets/combination-data-provider-is-service-provider.svg)
 
 If the *data provider* is also the *calculation service provider*, from the caller's point of view, it's like they're different entities that have full access to each other. The *skill provider* is a neutral entity.
 
 #### DATA PROVIDER IS SKILL PROVIDER
 
-![combination data provider is skill provider](assets/combination-data-provider-is-skill-provider.drawio.svg)
+![combination data provider is skill provider](assets/combination-data-provider-is-skill-provider.svg)
 
 In some cases, the *data provider* provides a skill that can process its data in a data sovereign way. Through this, it has the full control over how its data can be processed.
 
 #### CALCULATION SERVICE PROVIDER IS SKILL PROVIDER
 
-![combination service provider is skill provider](assets/combination-service-provider-is-skill-provider.drawio.svg)
+![combination service provider is skill provider](assets/combination-service-provider-is-skill-provider.svg)
 
 If the *calculation service provider* provides a skill, from the caller's point of view, it's like a data asset that can be parameterized.
 
 #### CONSUMER IS SKILL PROVIDER AND IS DATA PROVIDER
 
-![combination consumer is skill and data provider](assets/combination-consumer-is-skill-and-data-provider.drawio.svg)
+![combination consumer is skill and data provider](assets/combination-consumer-is-skill-and-data-provider.svg)
 
 With this combination, a *consumer* can utilize its own data in any way it wants to by using external calculation services.
 
 #### CONSUMER IS SKILL PROVIDER AND IS CALCULATION SERVICE PROVIDER
 
-![combination consumer is skill and service provider](assets/combination-consumer-is-skill-and-service-provider.drawio.svg)
+![combination consumer is skill and service provider](assets/combination-consumer-is-skill-and-service-provider.svg)
 
 With this combination, a *consumer* can parameterize its own calculation service with data of partners in any way it wants to.
 
 #### CONSUMER IS SKILL PROVIDER AND DATA PROVIDER IS CALCULATION SERVICE PROVIDER
 
-![combination consumer is skill provider and data provider is service provider](assets/combination-consumer-is-skill-provider-and-data-provider-is-service-provider.drawio.svg)
+![combination consumer is skill provider and data provider is service provider](assets/combination-consumer-is-skill-provider-and-data-provider-is-service-provider.svg)
 
 If the *data provider* is also the *calculation service provider*, from the caller's point of view, it's like they're different entities that have full access to each other. When using its own skill, the consumer has control over how the data is processed.
 
 #### ALL ROLES COINCIDE
 
-![combination all roles coincide](assets/combination-all-roles-coincide.drawio.svg)
+![combination all roles coincide](assets/combination-all-roles-coincide.svg)
 
 With this combination, a *consumer* can utilize its own data in any way it wants to.
 

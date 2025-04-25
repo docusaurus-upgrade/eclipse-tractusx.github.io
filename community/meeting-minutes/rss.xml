@@ -269,7 +269,7 @@
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="security-team">Security team<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-08-02#security-team" class="hash-link" aria-label="Direct link to Security team" title="Direct link to Security team">​</a></h3>
 <ul>
 <li>@matbmoser: Please do check for your security issues on the tab. High and critical issues need to be fixed. We should check this on high level / project level regularly in this meeting</li>
-<li>@tom-rm-meyer-ISST: For Truffle Hog, make sure that the workflow runs before merging. (see <a href="https://eclipse-tractusx.github.io/community/meeting-minutes/eclipse-tractusx/puris#531">e.g.</a>)</li>
+<li>@tom-rm-meyer-ISST: For Truffle Hog, make sure that the workflow runs before merging. (see <a href="https://github.com/eclipse-tractusx/puris/pull/531" target="_blank" rel="noopener noreferrer">e.g.</a>)</li>
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="foss">FOSS<a href="https://eclipse-tractusx.github.io/community/meeting-minutes/community-office-hour-2024-08-02#foss" class="hash-link" aria-label="Direct link to FOSS" title="Direct link to FOSS">​</a></h3>
 <ul>
